@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+  background-color: rgb(250, 231, 196);
+}
+#pic {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  float: left;
+  padding-right: 20px;
+}
+
+hr {
+  background-color: rgb(8, 123, 255);
+}
+table {
+  border-color: rgb(0, 70, 175);
+}
+#time td {
+  text-align: center;
+}
+#time th {
+  text-align: left;
+}
+input[name="submit"] {
+  border-width: 3px;
+  border-radius: 4px;
+  background-color: azure;
+}
+#skill td {
+  text-align: left;
+}
+/* Contact */
+.ig button {
+  background-color: violet;
+}
+input[name="Name"] {
+  background-color: aqua;
+}
+.radio {
+  border: solid 2px black;
+  width: 250px;
+}
